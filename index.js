@@ -1,4 +1,4 @@
-import {degrees, radians} from "../common/util/MathUtil.js"
+import {degrees, radians} from "util/MathUtil.js"
 
 const http = require('http');
 const PORT = 3000;
