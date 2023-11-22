@@ -6,9 +6,9 @@
   "author": "alphasec",
   "license": "MIT",
   "type": "module",
-  "dependencies": {
-        "util" : "file:../common/util"
-  },
+  "runtimeArgs": [
+    "--preserve-symlinks"
+  ],
   "scripts": {
     "start": "node index.js"
   }
