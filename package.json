@@ -6,6 +6,7 @@
   "author": "alphasec",
   "license": "MIT",
    "dependencies": {
+        "util" : "file:../common/util"
   },
   "scripts": {
     "start": "node index.js"
