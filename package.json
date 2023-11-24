@@ -11,5 +11,8 @@
   ],
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "common": "^0.2.5"
   }
 }
