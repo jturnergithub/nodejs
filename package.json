@@ -9,10 +9,13 @@
   "runtimeArgs": [
     "--preserve-symlinks"
   ],
+  "args" : [
+    "--preserve-symlinks"
+  ],
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "common": "file:node_modules/common"
+    "common": "file:../common"
   }
 }
