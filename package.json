@@ -12,10 +12,10 @@
   "args": [
     "--preserve-symlinks"
   ],
-  "dependencies": {
-    "common": "jturnergithub/common"
-  },
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "common": "file:common-1.0.0.tgz"
   }
 }
