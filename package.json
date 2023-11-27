@@ -16,6 +16,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "common": "file:../common"
+    "common": "file:common-1.0.0.tgz"
   }
 }
